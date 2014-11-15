@@ -1,10 +1,10 @@
-[M⬇︎][MD] · [PDF][PDF] · [HTML][HTML]  
-
 Geoff Nixon
 ===========
-_Voracious learner._
+> _Voracious learner._
 _Intrepid explorer. Indefatigable optimist._
 _Future GitHubber[¹](#-1)._
+
+[M⬇︎][MD] · [PDF][PDF] · [HTML][HTML]  
 
 ---------
 Objective
@@ -12,19 +12,20 @@ Objective
 
 ### (:city_sunrise: + :trolleybus: + :office:) × :octocat: = :heartpulse: ###
 
----------------------------------------
-A Screenshot Is Worth... a Lot of Words
----------------------------------------
+------------------------------------
+A Screenshot Is Worth a Lot of Words
+------------------------------------
 
 ```sh
 ssh root@ec2-54-67-44-132.us-west-1.compute.amazonaws.com -p122 \
   -i ~/.ssh/ec2.pem 'dd if=/dev/xvda bs=1M | xz' | xz -d > /tmp/ghe.raw
+
 qemu-img convert -p -O vmdk /tmp/ghe.raw /tmp/ghe.vmdk
 ```
 
-![HUR BE UNICORNS.][unicorns]
+![HUR BE UNICORNS!][unicorns]
 
-> Whence Waldo?
+   > Whence Waldo?
 
 ![Why, hello!][preflight-checks]
 
@@ -33,7 +34,7 @@ head -1 <\
 /data/github/current/app/assets/javascripts/github/pages/diffs/split.coffee
 ```
 
-### [Yep! Heh.`# Everything here is terrible`](https://cloud.githubusercontent.com/assets/98681/4139311/699ef6da-3399-11e4-8d8e-cf0a9e902867.gif)
+### [Yep, its there! Heh. `# Everything here is terrible`](https://cloud.githubusercontent.com/assets/98681/4139311/699ef6da-3399-11e4-8d8e-cf0a9e902867.gif)
 
 --------------
 Selected Works
@@ -118,7 +119,7 @@ History[²](#-2)
 
  - _Founder_, __And Oranges, LLC__. San Francisco, CA. 2012 — 2013.  
   Consulant/MSP, specialized in Mac-centric SMBs (galleries, film studios, retail), as below.
-  Defunct, in part [due to jerks who cannot distinguist a color from a fruit](orange).
+  Defunct, in part [due to jerks who cannot distinguist a color from a fruit](oranges).
 
  - _Lead Consultant/System Administratior_, __Rosai Group, Inc.__, S.F., CA. 2011 — 2012.  
  Primary technical consultant for midsize businesses in San Francisco. Remote provisioning, automated deployment; security, cost analysis; cross-platform directory integration; onsite/remote infrastructure, software, network, telephony deployment/integration, etc.
@@ -168,7 +169,7 @@ $(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
 [PDF]:              https://geoff-codes.github.io/geoff/resume.pdf
 [HTML]:             https://geoff-codes.github.io/geoff/index.html
 [apples]:           https://geoff-codes.github.io/geoff/html/applecertified.html
-[oranges]:           https://geoff-codes.github.io/geoff/html/orange-cease-and-desist.htm
+[oranges]:          https://geoff-codes.github.io/geoff/html/orange-cease-and-desist.htm
 [unicorns]:         https://geoff-codes.github.io/geoff/img/HUR-BE-UNICORNS---aws-local-vm.png
 [preflight-checks]: https://geoff-codes.github.io/geoff/img/hello-future-githubber---preflight-checks---contributing---ruby_concealer.png
 
