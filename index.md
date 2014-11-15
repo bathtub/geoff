@@ -2,7 +2,7 @@
 
 Geoff Nixon
 ===========
-> _Voracious learner. Intrepid explorer. Indefatigable optimist. Future GitHubber[¹](#1).
+> _Voracious learner. Intrepid explorer. Indefatigable optimist. Future GitHubber[¹](#1)._
 
 
 Objective
