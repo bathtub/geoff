@@ -112,7 +112,7 @@ Selected Works
 
 
 ---------------
-History[²](#-2)
+History[²](#2)
 ---------------
 
  - _Founder_, __And Oranges, LLC__. San Francisco, CA. 2012 — 2013.  
@@ -138,7 +138,7 @@ Slightly Irrelevant
 
 Definitely Irrelevant
 ---------------------
- - UC Berkeley. Undergraduate studies, Philosophy Major. 2006 — 2007. Degree Incomplete[³](#-3).
+ - UC Berkeley. Undergraduate studies, Philosophy Major. 2006 — 2007. Degree Incomplete[³](#3).
  - Santa Rosa Junior College. Associate of Arts, highest honors, 2006.
  - Petaluma High School; highest honors, 2005.
 
@@ -155,7 +155,7 @@ $(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
 
 ###### 1
 > Hey, you're the one who said it, not me! But I guess you say that to all the girls?
-`curl -skL (dig +short assets.github.com) | head`
+  `curl -skL (dig +short assets.github.com) | head`
 
 ###### 2
 > Yes, there's a big hole in my resumé. As in, the last two years. It so happens to be that I'm "permanently" disabled (SSDI). I'm happy to talk about it, but prefer to do so in person. I don't need a ramp. For the time being, perhaps you look at it this way: I come with a [$2,400 money-back guarantee](http://www.edd.ca.gov/jobs_and_training/WOTC_Employer_Guide.htm).
