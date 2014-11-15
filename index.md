@@ -142,11 +142,6 @@ Definitely Irrelevant
 
 ---
 
-```sh
-git commit -am "Hire me!
-$(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
-```
-
 ###### 1
 > Hey, you're the one who said it, not me! But I guess you say that to all the girls?  
 `curl -skL (dig +short assets.github.com) | head`
@@ -165,4 +160,8 @@ $(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
 [unicorns]:         https://geoff-codes.github.io/geoff/img/HUR-BE-UNICORNS---aws-local-vm.png
 [preflight-checks]: https://geoff-codes.github.io/geoff/img/hello-future-githubber---preflight-checks---contributing---ruby_concealer.png
 
+```sh
+git commit -am "Hire me!
+$(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
+```
 :two_hearts:
