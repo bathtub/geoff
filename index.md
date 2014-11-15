@@ -28,11 +28,9 @@ qemu-img convert -p -O vmdk /tmp/ghe.raw /tmp/ghe.vmdk
 ![Why, hello!][preflight-checks]
 
 ```sh
-head -1 <\
-/data/github/current/app/assets/javascripts/github/pages/diffs/split.coffee
+head -1 < /data/github/current/app/assets/javascripts/github/pages/diffs/split.coffee
 ```
-
-### [Yep, its there! Heh. `# Everything here is terrible`](https://cloud.githubusercontent.com/assets/98681/4139311/699ef6da-3399-11e4-8d8e-cf0a9e902867.gif)
+> [Yep, its there! Heh. `# Everything here is terrible`](https://cloud.githubusercontent.com/assets/98681/4139311/699ef6da-3399-11e4-8d8e-cf0a9e902867.gif)
 
 --------------
 Selected Works
