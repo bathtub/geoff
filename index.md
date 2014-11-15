@@ -146,12 +146,10 @@ Definitely Irrelevant
 
 If it isn't obvious by now, I should probably be upfront about the fact that working at Github has been kind of my dream [job] for a couple of years now. Which is **not** to say that I don't have some bookmarks in a folder called `cat -viii considered dangerous` — I do. So, on that high, note:
 
-```
+```sh
 git commit -am "Hire me!
 $(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
 ```
-
----
 
 ###### 1
 > Hey, you're the one who said it, not me! But I guess you say that to all the girls?
@@ -170,7 +168,5 @@ $(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
 [oranges]:          https://geoff-codes.github.io/geoff/html/orange-cease-and-desist.html
 [unicorns]:         https://geoff-codes.github.io/geoff/img/HUR-BE-UNICORNS---aws-local-vm.png
 [preflight-checks]: https://geoff-codes.github.io/geoff/img/hello-future-githubber---preflight-checks---contributing---ruby_concealer.png
-
----
 
 :two_hearts:
