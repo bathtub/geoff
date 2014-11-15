@@ -1,10 +1,10 @@
+[M⬇︎][MD] · [PDF][PDF] · [HTML][HTML]
 Geoff Nixon
 ===========
 > _Voracious learner._
 _Intrepid explorer. Indefatigable optimist._
 _Future GitHubber[¹](#-1)._
 
-[M⬇︎][MD] · [PDF][PDF] · [HTML][HTML]  
 
 ---------
 Objective
