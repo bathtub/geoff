@@ -1,4 +1,5 @@
 [M⬇︎][MD] · [PDF][PDF] · [HTML][HTML]
+
 Geoff Nixon
 ===========
 > _Voracious learner._
@@ -6,7 +7,6 @@ _Intrepid explorer. Indefatigable optimist._
 _Future GitHubber[¹](#-1)._
 
 
----------
 Objective
 ---------
 
@@ -165,7 +165,7 @@ $(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
 ###### 3
 > @jgm was _not_ yet the department chair at that time. I often wonder if I would have dropped out, if he had been.
 
-[MD]:               https://github.com/geoff-codes/geoff/md/resume.md/raw
+[MD]:               https://raw.github.com/geoff-codes/geoff/gh-pages/index.md
 [PDF]:              https://geoff-codes.github.io/geoff/resume.pdf
 [HTML]:             https://geoff-codes.github.io/geoff/index.html
 [apples]:           https://geoff-codes.github.io/geoff/html/applecertified.html
