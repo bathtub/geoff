@@ -2,17 +2,15 @@
 
 Geoff Nixon
 ===========
-_
-Voracious learner.
-Intrepid explorer. Indefatigable optimist.
-Future GitHubber[¹](#-1).
-_
+_Voracious learner._
+_Intrepid explorer. Indefatigable optimist._
+_Future GitHubber[¹](#-1)._
 
---------
+---------
 Objective
 ---------
 
-### (:city_sunrise: + :trolleybus: + :office:) × :octocat: = :heartpulse:
+### (:city_sunrise: + :trolleybus: + :office:) × :octocat: = :heartpulse: ###
 
 ---------------------------------------
 A Screenshot Is Worth... a Lot of Words
@@ -39,9 +37,9 @@ head -1 <\
 
 --------------
 Selected Works
- -------------
+--------------
 
-### Already Drinking the Coolaid
+### Already Drinking the Kool-Aid
  - https://github.com/education/teachers/issues/13#issuecomment-58482899
  - https://github.com/education/teachers/issues/11#issuecomment-58496477
 
@@ -116,7 +114,7 @@ Selected Works
 
 ---------------
 History[²](#-2)
- --------------
+---------------
 
  - _Founder_, __And Oranges, LLC__. San Francisco, CA. 2012 — 2013.  
   Consulant/MSP, specialized in Mac-centric SMBs (galleries, film studios, retail), as below.
@@ -132,7 +130,7 @@ Onsite troubleshooting, diagnosis, repair and replacement. Often, Apple Certifed
 
 
 Slightly Irrelevant
- ----------------
+-------------------
  - [Apple Certified](apples) System Administrator
  - Apple Certified Technical Coordinator
  - Apple Certified Macintosh Technician
@@ -147,7 +145,7 @@ Definitely Irrelevant
 
 ---
 
-If it isn't obvious by now, I should probably be upfront about the fact that working at Github has been kind of my dream [job] for a couple of years now. Which is **not** to say that I don't have some bookmarks in a folder called `cat -viii considered dangerous` — I do. So, on that hight note note:
+If it isn't obvious by now, I should probably be upfront about the fact that working at Github has been kind of my dream [job] for a couple of years now. Which is **not** to say that I don't have some bookmarks in a folder called `cat -viii considered dangerous` — I do. So, on that high, note:
 
 ```
 git commit -am "Hire me!
@@ -157,7 +155,7 @@ $(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
 ---
 
 ###### 1
-> Hey, you're the one who said it, not me! But I guess you say that to all the girls.
+> Hey, you're the one who said it, not me! But I guess you say that to all the girls?
 `curl -skL (dig +short assets.github.com) | head`
 
 ###### 2
@@ -166,16 +164,13 @@ $(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
 ###### 3
 > @jgm was _not_ yet the department chair at that time. I often wonder if I would have dropped out, if he had been.
 
-
-[MD]:       http://geoff-codes.github.io/geoff/master/resume.md/raw
-[PDF]:      http://geoff-codes.github.io/geoff/resume.pdf
-[HTML]:     http://geoff-codes.github.io/geoff/index.html
-
-[apples]:   http://geoff-codes.github.io/geoff/html/applecertified.html
-[oranges]: http://geoff-codes.github.io/geoff/html/orange-cease-and-desist.htm
-
-[unicorns]:  http://geoff-codes.github.io/geoff/img/HUR-BE-UNICORNS---aws-local-vm.png
-[preflight-checks]: http://geoff-codes.github.io/geoff/img/hello-future-githubber---preflight-checks---contributing---ruby_concealer.png
+[MD]:               https://github.com/geoff/master/md/resume.md/raw
+[PDF]:              https://geoff-codes.github.io/geoff/resume.pdf
+[HTML]:             https://geoff-codes.github.io/geoff/index.html
+[apples]:           https://geoff-codes.github.io/geoff/html/applecertified.html
+[oranges]:           https://geoff-codes.github.io/geoff/html/orange-cease-and-desist.htm
+[unicorns]:         https://geoff-codes.github.io/geoff/img/HUR-BE-UNICORNS---aws-local-vm.png
+[preflight-checks]: https://geoff-codes.github.io/geoff/img/hello-future-githubber---preflight-checks---contributing---ruby_concealer.png
 
 ---
 
