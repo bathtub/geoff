@@ -130,7 +130,7 @@ Onsite troubleshooting, diagnosis, repair and replacement. Often, Apple Certifed
 
 Slightly Irrelevant
 -------------------
- - [Apple Certified](apples) System Administrator
+ - [Apple Certified][apples] System Administrator
  - Apple Certified Technical Coordinator
  - Apple Certified Macintosh Technician
  - Google Apps Certified Deployment Specialist
