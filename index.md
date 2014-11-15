@@ -165,7 +165,7 @@ $(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
 ###### 3
 > @jgm was _not_ yet the department chair at that time. I often wonder if I would have dropped out, if he had been.
 
-[MD]:               https://github.com/geoff/master/md/resume.md/raw
+[MD]:               https://github.com/geoff-codes/geoff/md/resume.md/raw
 [PDF]:              https://geoff-codes.github.io/geoff/resume.pdf
 [HTML]:             https://geoff-codes.github.io/geoff/index.html
 [apples]:           https://geoff-codes.github.io/geoff/html/applecertified.html
