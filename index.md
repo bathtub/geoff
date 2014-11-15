@@ -142,16 +142,14 @@ Definitely Irrelevant
 
 ---
 
-If it isn't obvious by now, I should probably be upfront about the fact that working at Github has been kind of my dream [job] for a couple of years now. Which is **not** to say that I don't have some bookmarks in a folder called `cat -viii considered dangerous` — I do. So, on that high, note:
-
 ```sh
 git commit -am "Hire me!
 $(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
 ```
 
 ###### 1
-> Hey, you're the one who said it, not me! But I guess you say that to all the girls?
-  `curl -skL (dig +short assets.github.com) | head`
+> Hey, you're the one who said it, not me! But I guess you say that to all the girls?  
+`curl -skL (dig +short assets.github.com) | head`
 
 ###### 2
 > Yes, there's a big hole in my resumé. As in, the last two years. It so happens to be that I'm "permanently" disabled (SSDI). I'm happy to talk about it, but prefer to do so in person. I don't need a ramp. For the time being, perhaps you look at it this way: I come with a [$2,400 money-back guarantee](http://www.edd.ca.gov/jobs_and_training/WOTC_Employer_Guide.htm).
