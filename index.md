@@ -167,7 +167,7 @@ $(curl https://github.com/humans.txt|grep git|sed 's|.*com/|@|'|tr '\n' ' ')"
 [PDF]:              https://geoff-codes.github.io/geoff/resume.pdf
 [HTML]:             https://geoff-codes.github.io/geoff/index.html
 [apples]:           https://geoff-codes.github.io/geoff/html/applecertified.html
-[oranges]:          https://geoff-codes.github.io/geoff/html/orange-cease-and-desist.htm
+[oranges]:          https://geoff-codes.github.io/geoff/html/orange-cease-and-desist.html
 [unicorns]:         https://geoff-codes.github.io/geoff/img/HUR-BE-UNICORNS---aws-local-vm.png
 [preflight-checks]: https://geoff-codes.github.io/geoff/img/hello-future-githubber---preflight-checks---contributing---ruby_concealer.png
 
