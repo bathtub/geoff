@@ -10,9 +10,9 @@ Objective
 
 ### (:city_sunrise: + :trolleybus: + :office:) × :octocat: = :heartpulse: ###
 
-------------------------------------
-A Screenshot Is Worth a Lot of Words
-------------------------------------
+---------------------------------------
+A Screenshot Is Worth... a Lot of Words
+---------------------------------------
 
 ```sh
 ssh root@ec2-54-67-44-132.us-west-1.compute.amazonaws.com -p122 \
@@ -32,7 +32,7 @@ head -1 < /data/github/current/app/assets/javascripts/github/pages/diffs/split.c
 ```
 > [Yep, its there! Heh. `# Everything here is terrible`](https://cloud.githubusercontent.com/assets/98681/4139311/699ef6da-3399-11e4-8d8e-cf0a9e902867.gif)
 
---------------
+
 Selected Works
 --------------
 
