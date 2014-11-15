@@ -117,7 +117,7 @@ History[²](#2)
 
  - _Founder_, __And Oranges, LLC__. San Francisco, CA. 2012 — 2013.  
   Consulant/MSP, specialized in Mac-centric SMBs (galleries, film studios, retail), as below.
-  Defunct, in part [due to jerks who cannot distinguist a color from a fruit](oranges).
+  Defunct, in part [due to jerks who cannot distinguist a color from a fruit][oranges].
 
  - _Lead Consultant/System Administratior_, __Rosai Group, Inc.__, S.F., CA. 2011 — 2012.  
  Primary technical consultant for midsize businesses in San Francisco. Remote provisioning, automated deployment; security, cost analysis; cross-platform directory integration; onsite/remote infrastructure, software, network, telephony deployment/integration, etc.
