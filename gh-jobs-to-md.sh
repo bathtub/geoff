@@ -1,4 +1,4 @@
-#!/bin/sh ## Pull listings *at Github* from jobs.github.com. Output markdown.
+#!/bin/sh ## Pull listings *at GitHub* from jobs.github.com. Output markdown.
 
 curl -s 'https://jobs.github.com/positions.json?description=company:"GitHub"'|
   jq . | grep '"url"' | sed 's|.* "\(.*\)"|\1|' |
